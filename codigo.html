@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=padding, initial-scale=1.0">
+    <title>Saudação</title>
+</head>
+
+<body>
+
+    <p id="saudacao">Olá!</p>
+    <script>
+
+        function saudacao() {
+            var saudacao = document.getElementById("saudacao")
+            if (saudacao.innerHTML === "Olá!") {
+                saudacao.innerHTML = "Hello!"
+            } else {
+                saudacao.innerHTML = "Olá!"
+            }
+        }
+
+    </script>
+
+    <button type="button" onclick="saudacao()">alterar saudação</button>
+
+</body>
+
+</html>
