@@ -1,0 +1,56 @@
+.div-base{
+    margin-top: 75px;
+    background-color: orange;
+    text-align: center;
+    border-style: double;
+    border-radius: 10px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 425px;
+}
+
+.img-chapeu{
+    float: left;
+    width: 149px;
+    height: 105px;
+}
+
+.div-form{
+    width: 400px;
+    text-align: left;
+    margin-left: 165px;
+    margin-right: 150px;
+}
+
+input{
+    border-radius: 5px;
+    outline: none;
+}
+
+.botao{
+    border-radius: 10px;
+    background-color: rgb(33, 32, 32);
+    color: rgb(218, 125, 54);
+    width: 250px;
+    font-size: 17px;  
+}
+
+.botao:hover{
+    background-color: rgb(250, 186, 10);
+    color: black;
+    transition: 1000ms;
+}
+
+.div-media-mensagem{
+    height: 95px;
+    background: rgb(245, 226, 173);
+    text-align: center;
+    border-radius: 3px;
+}
+
+.texto-saida{
+    align-items: center;
+    padding-top: 15px;
+    color: rgba(220, 22, 22, 0.526)
+}

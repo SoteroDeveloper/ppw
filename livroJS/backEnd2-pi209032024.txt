@@ -1,0 +1,5 @@
+{
+  "objectId": "aCxZcYP2Zq",
+  "createdAt": "2024-03-16T12:59:03.603Z",
+  "sessionToken": "r:befa9649c5b6a04ae55b2a6f0440254f"
+}
